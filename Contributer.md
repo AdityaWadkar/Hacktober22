@@ -65,6 +65,13 @@ GITHUB :  Swoyam2609<br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar<br>
 DOMAIN/LANGUGAE : C++<br>
 
+-----
+NAME : Aditya Wadkar<br>
+GITHUB : github.com/AdityaWadkar<br>
+INSTITUTE/COMPANY : PICT <br>
+DOMAIN/LANGUGAE : Python<br>
+-----
+
 
 
 
